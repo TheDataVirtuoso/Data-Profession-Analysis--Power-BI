@@ -106,7 +106,8 @@ Snap of Total Number of Total Survey:
  
      Calculate the average age of the respondents.
 
-Snap of Attrition Count:
+Snap of Average Age:
+
 ![2](https://github.com/TheDataVirtuoso/CollinsBahati.github.io/assets/87636760/e8025291-a316-427a-9b96-ff503905b4ab)   
 
 3.  Conversion to Data Profession:     
